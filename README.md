@@ -3,7 +3,9 @@ I got the invitation from google with foobar. I leave questions and my answers f
 
 Level 1
 Level 1 was an simplt algorith which anyone can solve. Basically, you will get a number represents the total area, and you have to make as many big squares as possible out of the area give. 
-E.G. Input: 12
+E.G. 
+
+     Input: 12
      Output: 9,1,1,1
      
      Input: 15324
